@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "noun-movie-2943546_2_25x25.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "noun-movie-2943546_50x50.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "noun-movie-2943546_1_75x75.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
